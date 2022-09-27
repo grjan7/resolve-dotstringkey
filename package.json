@@ -1,0 +1,32 @@
+{
+  "name": "resolve-dotstringkey",
+  "version": "1.0.0",
+  "description": "Resolves the dot object notation string to its value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "dot",
+    "notation",
+    "string",
+    "object",
+    "resolve",
+    "key",
+    "value"
+  ],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/resolve-dotstringkey.git"
+  },
+  "homepage": "https://github.com/grjan7/resolve-dotstringkey#readme",
+  "bugs": {
+    "url": "https://github.com/grjan7/resolve-dotstringkey/issues"
+  },
+  "license": "ISC"
+}
