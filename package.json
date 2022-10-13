@@ -18,6 +18,7 @@
   "author": "Jana Rangasamy <janagr7@gmail.com>",
   "files": [
     "index.js",
+    "lib/",
     "test.js"
   ],
   "repository": {
