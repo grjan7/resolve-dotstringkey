@@ -1,6 +1,6 @@
 'use strict';
 
-const resolveKey = require('./lib/resolveKey');
+const keysArray = require('./lib/keysArray');
 const isNonNullObject = require('./lib/isNonNullObject');
 
 
@@ -21,8 +21,9 @@ const resolveDotStringKey = (rootObject, dotStringKey) => {
       let resolvedKeyValue = rootObject;
 
       if (dotStringKey) {
-        let keyArray = resolveKey(dotStringKey);
-        console.log(keyArray);
+
+        let keyArray = keysArray(dotStringKey);
+
         for (let key of keyArray) {
           resolvedKeyValue = resolvedKeyValue[key];
         }
