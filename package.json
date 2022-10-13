@@ -1,6 +1,6 @@
 {
   "name": "resolve-dotstringkey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves the dot object notation string to its value.",
   "main": "index.js",
   "scripts": {
