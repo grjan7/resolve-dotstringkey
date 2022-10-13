@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/resolve-dotstringkey.svg)](https://www.npmjs.com/package/resolve-dotstringkey)
 [![NPM downloads](https://img.shields.io/npm/dm/resolve-dotstringkey.svg)](https://www.npmjs.com/package/resolve-dotstringkey)
-[![Known Vulnerabilities](https://snyk.io/test/github/grjan7/resolve-dotstringkey/badge.svg)](https://snyk.io/test/github/grjan7/resolve-dotstringkey
+[![Known Vulnerabilities](https://snyk.io/test/github/grjan7/resolve-dotstringkey/badge.svg)](https://snyk.io/test/github/grjan7/resolve-dotstringkey)
 
 ## Description
 
